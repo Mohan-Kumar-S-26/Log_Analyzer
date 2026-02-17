@@ -1,0 +1,8 @@
+INFO System started
+ERROR Database connection failed
+INFO User login
+WARNING Memory usage high
+ERROR Timeout
+DEBUG Variable x=10
+ERROR Null pointer exception
+INFO System shutdown
